@@ -1,0 +1,54 @@
+body    { 
+    background-color: rgb(229, 236, 248);
+    border: 5px solid rgb(149, 120, 228);
+}
+.photo{
+    background-position: center;
+    margin-left: 400px;
+}
+article{
+   
+    padding: 10px;
+    margin: 5px;
+ 
+}
+
+
+
+h1 {
+    margin-left: 200px;
+ color: black;
+ font-family: cursive;
+
+}
+
+h2{
+    margin-left: 150px;
+    color: rgb(1, 2, 3);
+    padding: 10px;
+}
+
+h4{
+    margin-left: 20px;
+    color: rgb(109, 30, 255);
+}
+
+
+h3 { 
+    margin-left: 150px;
+    color:rgb(12, 14, 17);
+}
+
+title{
+    color: rgb(2, 2, 3);
+    font-size: 20px;
+}
+.imagem{ 
+    margin-left: 200px;
+}
+
+ul{ 
+    
+    padding-left: 150px ;
+}
+
